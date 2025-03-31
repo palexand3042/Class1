@@ -1,17 +1,17 @@
-title: Website Title
+title: My First New Website
 
 description: >
-  Website Description
+  This website is for class today 3/31/25
 
 author:
-  name: Name
-  email: your-email@domain.com
+  name: Paul Alexander
+  email: palexand3042@gmail.com
 
 nav_pages:
   - about.md
   - contact.md
 
-max-width: 800px
+max-width: 1600px
 
 show_excerpts: true
 show_rss_feed: true
